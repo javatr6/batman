@@ -4,6 +4,8 @@ public class LoginBean {
 	private String userName;
 	private String userPassword;
 //User 1 comment 	
+	
+	//This is comment
 	public LoginBean() {
 		
 	}
